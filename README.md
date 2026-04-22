@@ -75,5 +75,5 @@ GROQ_MODEL = "llama-3.1-8b-instant"      # fastest (default)
 
 ---
 
-<img width="1901" height="856" alt="image" src="C:\Users\Administrator\Desktop\Documind-AI\assets\image.png" />
+<img width="1901" height="856" alt="image" src="assets\image.png" />
 
