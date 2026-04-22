@@ -1,0 +1,35 @@
+# Core
+streamlit>=1.32.0
+
+# LangChain
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.20
+langchain-text-splitters>=0.0.1
+langchain-groq>=0.1.0
+langchain-huggingface>=0.0.3
+
+# Vector store
+faiss-cpu
+
+# Embeddings (free, local — no API key needed)
+sentence-transformers
+torch
+
+# Document loaders
+pypdf
+docx2txt
+python-docx
+pandas
+openpyxl
+xlrd
+
+# Groq LLM (fast, free tier)
+groq
+
+# Voice
+faster-whisper
+streamlit-mic-recorder
+
+# PDF viewer
+streamlit-pdf-viewer
